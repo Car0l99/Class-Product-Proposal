@@ -9,14 +9,12 @@
 
 <h2 style="text-align:center;">Technology Overview</h2>
 
-<h3 style="text-align:center;">Technology Overview</h3>
+<h2 style="text-align:center;">Proposal Last Updated</h2>
 
-<h4 style="text-align:center;">Proposal Last Updated</h4>
+<h2 style="text-align:center;">Feature List</h2>
 
-<h5 style="text-align:center;">Feature List</h5>
+<h2 style="text-align:center;">Future Feature List</h2>
 
-<h6 style="text-align:center;">Future Feature List</h6>
+<h2 style="text-align:center;">Basic Technical Features</h2>
 
-<h7 style="text-align:center;">Basic Technical Features</h7>
-
-<h8 style="text-align:center;">Advanced Technical Features</h8>
+<h2 style="text-align:center;">Advanced Technical Features</h2>
