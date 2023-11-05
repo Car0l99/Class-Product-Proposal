@@ -16,7 +16,7 @@
 <h2 style="text-align:center;">Date Proposal Last updated</h2>
 <p>November 4, 2023</p>
 <h2 style="text-align:center;">Feature List</h2>
-<p>Eggs being able to jump, dodge and run past obstacles such as tree stumps or rocks.
+<p>Eggs being able to jump, duck and run past obstacles such as tree stumps, branches or rocks.
 </p>
 <h2 style="text-align:center;">Future Feature List</h2>
 <p>Monsters like the pufferfish in mario for example that shots bubble beams that cause damage that you need to dodge.</p>
