@@ -8,27 +8,23 @@
 <h2 style="text-align:center;">Application Overview</h2>
   <p>A game featuring cast of 6 litle egg pixel characters, each with their own accessories.
     That provide a defining difference between them. The goal of the game is to get your egg 
-    across the 3 levels which are to mimick the old Mario games where mario runs across a field of
-    obstacles and monsters to get to the next level.
+    across the run where it'll face different obstacle to the end.
+    Very similar to the old mario games or flappy bird games.
   </p>
 <h2 style="text-align:center;">Technology Overview</h2>
-<p>I plan to use python, as java is a nightmare. I don't which platforms or libraries I plan to use it.
+<p>I plan to use java as I haven't spent much time with python. But that might change in the future. I don't which platforms or libraries I plan to use it.
 </p>
 <h2 style="text-align:center;">Date Proposal Last updated</h2>
-<p>November 3, 2023</p>
+<p>November 4, 2023</p>
 <h2 style="text-align:center;">Feature List</h2>
-<p>6 different monsters across the 3 levels (2 for each). For example,
-  a pufferfish that shoots out bubble beams that cause damage. Along with the
-  Eggs being able to jump, dodge, run and duck & obstacles like tree stumps.
+<p>Eggs being able to jump, dodge and run past obstacles such as tree stumps or rocks.
 </p>
 <h2 style="text-align:center;">Future Feature List</h2>
-<p>Powerups that eggs can utilize to get past the monsters.</p>
+<p>Monsters like the pufferfish in mario for example that shots bubble beams that cause damage that you need to dodge.</p>
 <h2 style="text-align:center;">Basic Technical Features</h2>
 <p>
-  I plan to use most of the python that we used in class for this game.
+  I plan to use most of the java that we used in class for this game.
 </p>
 <h2 style="text-align:center;">Advanced Technical Features</h2>
-<p>6 different monsters across the 3 levels (2 for each). For example,
-  a pufferfish that shoots out bubble beams that cause damage. Along with the
-  Eggs being able to jump, dodge, run and duck & obstacles like tree stumps.
+<p>Monsters like the pufferfish in mario for example that shots bubble beams that cause damage that you need to dodge.
 </p>
