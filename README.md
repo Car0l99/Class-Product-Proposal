@@ -6,9 +6,8 @@
 <p><a href="carolinesiedlarczy@lewisu.edu">carolinesiedlarczy@lewisu.edu</a></p>
 
 <h2 style="text-align:center;">Application Overview</h2>
-  <p>A game featuring cast of 6 litle egg pixel characters, each with their own accessories.
-    That provide a defining difference between them. The goal of the game is to get your egg 
-    across the run where it'll face different obstacle to the end.
+  <p>A game featuring cast a little pixel egg that you'll play as. The goal of the game is to get your egg 
+    across the run where it'll face different obstacle to get to the end.
     Very similar to the old mario games or flappy bird games.
   </p>
 <h2 style="text-align:center;">Technology Overview</h2>
